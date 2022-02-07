@@ -35,7 +35,7 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
+    
     # GitLab instances
     # gitlab:
     # - username: jekyll
@@ -48,11 +48,10 @@ minima:
 header_pages:
  - about.markdown
 
-
 # Build settings
 remote_theme: jekyll/minima
 theme: minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-seo-tag
 
