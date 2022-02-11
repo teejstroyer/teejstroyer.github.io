@@ -3,7 +3,7 @@ layout: home
 title: Hello World
 ---
 
-My name is TJ Broadus, and this is a collection of challenges, experiments, and general experiences I've had.
+My name is TJ Broadus, and this is a collection of challenges, experiments, and general experiences that I've had.
 
 ## Objectives
 
