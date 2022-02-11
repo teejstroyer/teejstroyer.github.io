@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Hello World
 ---
-
-# Hello World
 
 My name is TJ Broadus, and this is a collection of challenges, experiments, and general experiences I've had.
 
